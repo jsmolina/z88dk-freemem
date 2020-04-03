@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 TOTAL_MEM = 65535
-GAME_MAP_PATH = '/Users/jordism/Downloads/game.map'
+GAME_MAP_PATH = './game.map'
 
 
 if __name__ == "__main__":
